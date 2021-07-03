@@ -4,6 +4,8 @@
 
 .hdng{
     text-align: center;
+    background-color: hsla(0, 4%, 49%, 0.349);
+    margin: 20px 100px 8px 100px;
 }
 .para {
     font-size: 2em;
