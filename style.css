@@ -1,0 +1,66 @@
+.hdng:hover{
+    color:rgb(138, 46, 46);
+}
+
+.hdng{
+    text-align: center;
+}
+.para {
+    font-size: 2em;
+    font-family: Georgia, 'Times New Roman', Times, serif, sans-serif;
+    margin: 30px 20px 50px 20px;
+    border: 1px solid black;
+    padding: 0px 5px 0px 9px;
+    background-color:darkgrey
+}
+.unknown{
+    margin: 30px 30px 5px 55px;
+}
+.hdngg{
+    text-align: center;
+}
+.sphynx{
+    float: right;
+    margin: 20px;
+}
+.paraone{
+    margin: 40px 5px 5px 5px;
+    font-size: 1.2em;
+}
+.specs{
+    margin: 10px 20px 80px 20px;
+}
+.bambino{
+    text-align: left;
+    margin: 50px 5px 20px 100px;
+}
+.paratwo{
+    font-size: 1.2em;
+    margin: 0px 5px 5px 5px;
+}
+.imgbambino{
+    float: right;
+    margin: 20px;
+}
+.specsone{
+    margin: 20px 20px 70px 20px;
+
+}
+.peterbald {
+    float: right;
+}
+.headingthree{
+    margin: 100px 0px 0px 100px;
+    
+}
+.parathree{
+    margin: 20px 5px 30px 5px ;
+    font-size: 1.2em;
+}
+.specstwo{
+    margin: 5px 5px 300px 5px;
+}
+submit-button{
+    background-color:rgb(138, 46, 46)
+    color: red;
+}
